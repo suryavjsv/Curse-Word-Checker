@@ -1,4 +1,4 @@
-# Curse-Word-Checker
+# Curse-Word-Checker (python code)
 # It will check your text document and will tell whether your document has curse word(bad word) or not.
 
  def read_text():
